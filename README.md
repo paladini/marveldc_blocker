@@ -1,6 +1,8 @@
 # Marvel-DC Blocker
 Chrome Extension that removes all Facebook posts that mention any shit from Marvel or DC universe. 
 
+- [Download the Chrome extension](https://chrome.google.com/webstore/detail/bjmlbgigclhoakjnkmpmlolgogjeinmf)
+
 For unknown reasons (during my childhood and probably related to my parents), I don't like anything related to super heroes. I know that most of you like movies and comics about heroes from Marvel and DC - and I respect it, but I personally don't like it. I mean, I really don't like it. It make me feel angry. Very. Angry.
 
 ![](images/you_dont_want_us_in_your_facebook.jpg)
